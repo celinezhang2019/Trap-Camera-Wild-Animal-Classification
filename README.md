@@ -11,11 +11,11 @@ The proposed model code, which can generate model package including .h5 files an
 ### 2. Image File
 
 (1) correctly predicted test sample image: 
-correct_elephant.jpeg 
+correct_elephant.jpeg; 
 correct_lion.jpg 
 
 (2) wrongly predicted test sample image:
-wrong_elephant.jpeg 
+wrong_elephant.jpeg; 
 wrong_lion.jpg 
 
 (3) images zipfile:
