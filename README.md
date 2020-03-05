@@ -5,13 +5,76 @@ Msc Project
 
 (1) The online prediction website:http://35.221.136.245:5000/static/predict.html
 (2) This project studies 22 species of wild animal.
-|表头|条目一|条目二| |
+No.
+Animal name
+Data source
+1
+elephant
+SER
+2
+wild_boar
+NAC
+3
+gazellethomsons
+SER
+4
+squirrel
+NAC, CAL
+5
+hedgehog
+WEL
+6
+guineafowl
+SER
+7
+moose
+NAC
+8
+coyote
+CAL
+9
+bird
+NAC, CAL, WEL
+10
+fox
+NAC, CAL
+11
+giraffe
+SER
+12
+buffalo
+SER
+13
+hare
+NAC
+14
+wildebeest
+SER
+15
+cattle
+NAC,CAL
+16
+skunk
+NAC
+17
+lion
+SER, NAC, CAL
+18
+zebra
+SER
+19
+black_bear
+NAC
+20
+racoon
+CAL
+21
+vehicle
+NA,CAL
+22
+empty
+SER, CAL
 
-
-
-:---:|:---:|:---:
-
-项目|项目一|项目二
 
 
 
