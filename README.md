@@ -1,5 +1,5 @@
 # Trap-Camera-Wild-Animal-Classification
-Msc Project
+Msc Project:https://github.com/celinezhang2019/Trap-Camera-Wild-Animal-Classification/wiki
 
 ### 1.Instruction
 
