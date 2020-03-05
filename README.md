@@ -17,6 +17,7 @@ Msc Project:https://github.com/celinezhang2019/Trap-Camera-Wild-Animal-Classific
 
 ### 2. Data Sources
 All the raw data are collected from http://lila.science/datasets
+
 Four datasets are used for modeling.
 
 
