@@ -4,7 +4,8 @@ Msc Project:https://github.com/celinezhang2019/Trap-Camera-Wild-Animal-Classific
 ### 1.Instruction
 
 (1) The online prediction website:http://35.221.136.245:5000/static/predict.html
-(2) This project studies 22 species of wild animal.
+
+(2) This project studies 22 species of wild animals.
 
 
 
