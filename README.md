@@ -6,8 +6,11 @@ Msc Project
 (1) The online prediction website:http://35.221.136.245:5000/static/predict.html
 (2) This project studies 22 species of wild animal.
 表头|条目一|条目二
+
 :---:|:---:|:---:
+
 项目|项目一|项目二
+
 
 
 
