@@ -24,8 +24,17 @@ Four datasets are used for modeling.
 
 ### 3. Code
 
-(1) AlexNet_S.ipynb  
+(1) Data_preparation.ipynb
+
+Prepare the images to the desired sized pixels' ".npy" format dataset in Python. The purpose is to make the data loading issue easily and quickly. Every time, before modeling, we can load the .npy datasets and then train the model.
+
+(2) AlexNet_S.ipynb
+
 The proposed model code, which can generate model package including .h5 files and .ckpt file to save the model structure and weights.
+
+(3) Traditional_model.ipynb
+
+Including logistic regression(LR), KNN, SVM, Random Forest Modeling code
 
 
 
